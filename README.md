@@ -1,2 +1,2 @@
 My first readme
-Manual update from github.com
+Manual update from github.com by collins
